@@ -52,4 +52,4 @@ We have done a multiclass Classification here on **11** classes.
 
 We have selected top **10** highest occurring topics and assigned topic **others** to the remaining articles.
 
-To know more about the Preprocessing steps and methodology  please refer to the [Training Notebook](Train) and the [Google Slides Presentation](Project)  
+To know more about the Preprocessing steps and methodology  please refer to the [Training Notebook](Training.ipynb) and the [Google Slides Presentation](Interos_Apprentice_Challenge.pptx)  
